@@ -21,21 +21,32 @@
       "registrationUrl": ""
     },
     {
-      "id": "climate-workshop-2026",
-      "title": "International Youth Convention",
+      "id": "international-music-meeting-sapin-2026",
+      "title": "International Music Meeting",
       "description": "Interactive workshop on climate policy and youth advocacy. Participants will develop concrete action plans for their local communities and learn to engage with EU institutions.",
-      "details": "This half-day online workshop is designed for young climate advocates who want to turn passion into policy. Expert facilitators from leading European environmental NGOs will guide participants through the EU's Green Deal framework and teach practical tools for community engagement.\n\nEach participant will leave with a personalised Climate Action Plan template and access to our resource library of EU funding opportunities for youth-led green projects.",
-      "start": "2026-06-05T14:00:00",
-      "end": "2026-06-05T18:00:00",
-      "location": "Online (Zoom)",
-      "locationUrl": "",
+      "details": "Dear Young Friends,
+We invite you to experience something truly special at our International Music Camp, where you will take part in inspiring choir and orchestra rehearsals, designed to help you grow musically and prepare meaningful moments of praise.
+
+During the camp, you will also be able to attend practical workshops aimed at strengthening your spiritual life, along with other interesting and valuable workshops that will help you grow both personally and artistically.
+
+This camp will also be a wonderful opportunity to enjoy fellowship with other young people and musicians, sharing music, experiences, and unforgettable moments together.
+
+Children will have their own engaging and interactive program designed especially for them, while participants will also have the opportunity to enjoy exciting excursions in a beautiful setting.
+
+And of course, we have prepared a few special surprises for you, organized with great love and enthusiasm, to make this camp a truly memorable experience.
+
+We look forward to welcoming you! ",
+      "start": "2026-07-12T14:00:00",
+      "end": "2026-07-12T18:00:00",
+      "location": "Spain, Sagunto",
+      "locationUrl": "https://www.google.com/maps?cid=2083735178754792793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYASAA&hl=en-US&source=embed",
       "visible": true,
-      "country": "Online",
+      "country": "Spain",
       "scope": "International",
-      "timezone": "Europe/Brussels",
-      "category": "Workshop",
-      "url": "",
-      "registrationUrl": "",
+      "timezone": "Europe/Madrid",
+      "category": "Music",
+      "url": "https://immspain2026.com/",
+      "registrationUrl": "https://immspain2026.com/",
       "agenda": [
         { "time": "14:00", "title": "Welcome & Introductions" },
         { "time": "14:15", "title": "Overview: EU Green Deal & Youth Role" },
