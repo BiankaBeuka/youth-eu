@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Youth EU//Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Youth EU Events
+X-WR-CALDESC:Stay updated with all Youth EU events\, workshops\, and confer
+ ences.
+X-WR-TIMEZONE:Europe/Brussels
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-APPLE-CALENDAR-COLOR:#003399
+BEGIN:VEVENT
+UID:youth-sabbath-austria-may-2026@youth-eu
+DTSTAMP:20260426T162627Z
+DTSTART;TZID=Europe/Vienna:20260509T090000
+DTEND;TZID=Europe/Vienna:20260509T200000
+SUMMARY:Youth Sabbath
+DESCRIPTION:Coincidence or God's Plan? Join us for workshops\, networking s
+ essions\, and policy discussions on the future of Europe.
+LOCATION:Austria\, Wolfern
+CATEGORIES:Youth Sabbath
+URL:https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDgxMDAxOTYzMDYyODk5?story_media_id=3856208520412718240&igsh=OGN6YnFsNGtndW5q
+END:VEVENT
+BEGIN:VEVENT
+UID:climate-workshop-2026@youth-eu
+DTSTAMP:20260426T162627Z
+DTSTART;TZID=Europe/Brussels:20260605T140000
+DTEND;TZID=Europe/Brussels:20260605T180000
+SUMMARY:International Youth Convention
+DESCRIPTION:Interactive workshop on climate policy and youth advocacy. Part
+ icipants will develop concrete action plans for their local communities a
+ nd learn to engage with EU institutions.
+LOCATION:Online (Zoom)
+CATEGORIES:Workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:international-youth-convention-2025@youth-eu
+DTSTAMP:20260426T162627Z
+DTSTART;TZID=Europe/Bucharest:20250726T090000
+DTEND;TZID=Europe/Bucharest:20250802T180000
+SUMMARY:International Youth Convention 2025
+DESCRIPTION:A week-long celebration of youth participation and engagement i
+ n the European Union. Events across all EU member states featuring debate
+ s\, sports\, culture\, and community activities.
+LOCATION:Various locations\, European Union
+CATEGORIES:Festival
+END:VEVENT
+BEGIN:VEVENT
+UID:digital-future-forum-2026@youth-eu
+DTSTAMP:20260426T162627Z
+DTSTART;TZID=Europe/Stockholm:20260918T100000
+DTEND;TZID=Europe/Stockholm:20260918T170000
+SUMMARY:Digital Future Forum
+DESCRIPTION:Expert talks and panel discussions on digital skills\, AI polic
+ y\, and the future of work for European youth. Featuring speakers from EU
+  institutions\, tech companies\, and academia.
+LOCATION:Malmö\, Sweden
+CATEGORIES:Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-conference-2026@youth-eu
+DTSTAMP:20260426T162627Z
+DTSTART;TZID=Europe/Paris:20261110T090000
+DTEND;TZID=Europe/Paris:20261112T170000
+SUMMARY:Youth EU Autumn Conference
+DESCRIPTION:Annual autumn conference bringing together youth leaders from a
+ cross Europe to discuss key EU policies and initiatives for the upcoming 
+ year.
+LOCATION:Strasbourg\, France
+CATEGORIES:Conference
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+name: Generate calendar.ics
+
+# Runs whenever events.json is pushed to main, or manually triggered
+on:
+  push:
+    branches: [main]
+    paths:
+      - events.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-ics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate calendar.ics
+        run: python scripts/generate_ics.py
+
+      - name: Commit and push calendar.ics
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendar.ics index.html event.html
+          # Only commit if the files actually changed
+          git diff --staged --quiet || git commit -m "chore: regenerate calendar.ics and inline events [skip ci]"
+          git push
