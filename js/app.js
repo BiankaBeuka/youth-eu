@@ -180,6 +180,9 @@ function renderEvents(timePref) {
 
   let events = (eventsData && eventsData.events) ? [...eventsData.events] : [];
 
+  // ── Visibility filter
+  events = events.filter(e => e.visible !== false);
+
   // ── Time filter ──────────────────────────────────────────────────────────
   if (currentFilter === 'upcoming') {
     events = events.filter(e => new Date(e.end || e.start) >= now);

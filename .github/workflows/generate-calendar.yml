@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Validate events.json
+        run: python -c "import json, sys; json.load(open('events.json')); print('events.json is valid JSON')"
+
       - name: Generate calendar.ics
         run: python scripts/generate_ics.py
 
