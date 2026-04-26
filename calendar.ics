@@ -12,32 +12,31 @@ X-PUBLISHED-TTL:PT12H
 X-APPLE-CALENDAR-COLOR:#003399
 BEGIN:VEVENT
 UID:youth-sabbath-austria-may-2026@youth-eu
-DTSTAMP:20260426T165441Z
+DTSTAMP:20260426T170449Z
 DTSTART;TZID=Europe/Vienna:20260509T090000
 DTEND;TZID=Europe/Vienna:20260509T200000
-SUMMARY:Youth Sabbath
-DESCRIPTION:Coincidence or God's Plan? Join us for workshops\, networking s
- essions\, and policy discussions on the future of Europe.
+SUMMARY:Austria | Youth Sabbath
+DESCRIPTION:Coincidence or God's Plan?\nCommunity & Exchange: Encounter Wor
+ kshop\, Learning\, Growth together Spending time together
 LOCATION:Austria\, Wolfern
 CATEGORIES:Youth Sabbath
 URL:https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDgxMDAxOTYzMDYyODk5?story_media_id=3856208520412718240&igsh=OGN6YnFsNGtndW5q
 END:VEVENT
 BEGIN:VEVENT
-UID:international-music-meeting-sapin-2026@youth-eu
-DTSTAMP:20260426T165441Z
+UID:international-music-meeting-spain-2026@youth-eu
+DTSTAMP:20260426T170449Z
 DTSTART;TZID=Europe/Madrid:20260706T150000
 DTEND;TZID=Europe/Madrid:20260712T130000
-SUMMARY:International Music Meeting
-DESCRIPTION:Interactive workshop on climate policy and youth advocacy. Part
- icipants will develop concrete action plans for their local communities a
- nd learn to engage with EU institutions.
+SUMMARY:Spain | International Music Meeting
+DESCRIPTION:International MUSIC and YOUTH Meeting\, July\, 2026 - SAGUNTO- 
+ SPAIN
 LOCATION:Spain\, Sagunto
 CATEGORIES:Music
 URL:https://immspain2026.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:international-youth-convention-2025@youth-eu
-DTSTAMP:20260426T165441Z
+DTSTAMP:20260426T170449Z
 DTSTART;TZID=Europe/Bucharest:20250726T090000
 DTEND;TZID=Europe/Bucharest:20250802T180000
 SUMMARY:International Youth Convention 2025
@@ -49,7 +48,7 @@ CATEGORIES:Festival
 END:VEVENT
 BEGIN:VEVENT
 UID:digital-future-forum-2026@youth-eu
-DTSTAMP:20260426T165441Z
+DTSTAMP:20260426T170449Z
 DTSTART;TZID=Europe/Stockholm:20260918T100000
 DTEND;TZID=Europe/Stockholm:20260918T170000
 SUMMARY:Digital Future Forum
@@ -61,7 +60,7 @@ CATEGORIES:Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:autumn-conference-2026@youth-eu
-DTSTAMP:20260426T165441Z
+DTSTAMP:20260426T170449Z
 DTSTART;TZID=Europe/Paris:20261110T090000
 DTEND;TZID=Europe/Paris:20261112T170000
 SUMMARY:Youth EU Autumn Conference
